@@ -1,0 +1,21 @@
+{
+  "name": "bedrock-example-plugin",
+  "version": "0.1.0",
+  "description": "Example plugin for Prismarine Bedrock bots.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "bedrock",
+    "minecraft",
+    "prismarine-bedrock",
+    "plugin"
+  ],
+  "author": "Deep Slate Bedrock",
+  "license": "MIT",
+  "peerDependencies": {
+    "prismarine-bedrock": "0.x"
+  },
+  "devDependencies": {}
+}
