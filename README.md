@@ -9,7 +9,7 @@ attach a small public API, and subscribe to bot/client events.
 ## Install
 
 ```sh
-pnpm add bedrock-example-plugin prismarine-bedrock
+pnpm add github:deepslate-bedrock/bedrock-example-plugin prismarine-bedrock
 ```
 
 ## Use With `createBot`
